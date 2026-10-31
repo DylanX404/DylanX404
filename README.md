@@ -1,36 +1,36 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=E6EDF3&center=true&vCenter=true&width=560&height=60&lines=Dylan+Bezuidenhout;autonomous+systems.;applied+AI.;infrastructure+%26+security.;building+in+private." alt="Dylan Bezuidenhout" />
+<img src="assets/hero.svg" alt="Dylan Bezuidenhout — systems engineer" width="100%" />
 
-<sub><code>systems engineer</code> · <code>pretoria, za</code></sub>
+<br><br>
 
-</div>
+<img src="assets/terminal.svg" alt="whoami · focus · projects" width="92%" />
 
-<br>
+<br><br>
 
-```console
-$ cat ./focus
-autonomous systems   ▸  agents that plan, act and verify their own work
-applied ai           ▸  local models · evaluation · computer vision
-infrastructure       ▸  networks · fleets · observability · zero trust
-security             ▸  detection · hardening · least privilege by default
+<sub><code>// now building</code></sub>
 
-$ ls ./projects
-███████████   ██████████████   ████████   ███████████████   ██████
-[ 7 active · all private ]
-```
+<br><br>
 
-<div align="center">
+<img src="assets/now.svg" alt="agents · vision · infrastructure" width="92%" />
 
-<img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,postgres,docker,linux,cloudflare,githubactions&theme=dark" />
+<br><br>
+
+<img src="assets/stack.svg" alt="languages, tools and domains" width="92%" />
+
+<br><br>
+
+<sub><code>// activity</code></sub>
 
 <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DylanX404/DylanX404/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DylanX404/DylanX404/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/DylanX404/DylanX404/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/DylanX404/DylanX404/output/snake-dark.svg" width="92%" />
 </picture>
+
+<br><br>
 
 <sub>most of it ships quietly.</sub>
 
