@@ -60,7 +60,7 @@ def hero() -> str:
   <rect y="-80" width="1200" height="80" fill="url(#scan)"><animate attributeName="y" values="-80;320" dur="6s" repeatCount="indefinite"/></rect>
   <circle cx="40" cy="36" r="6" fill="#ff5f57"/><circle cx="60" cy="36" r="6" fill="#febc2e"/><circle cx="80" cy="36" r="6" fill="#28c840"/>
   <text x="80" y="122" font-family="{SANS}" font-size="56" font-weight="800" letter-spacing="2" fill="url(#name)">DYLAN BEZUIDENHOUT</text>
-  <text x="80" y="164" font-family="{MONO}" font-size="20" fill="{DIM}">systems engineer <tspan fill="{LINE}">/</tspan> pretoria, za</text>
+  <text x="80" y="164" font-family="{MONO}" font-size="20" fill="{DIM}">systems engineer</text>
   <text x="56" y="214" font-family="{MONO}" font-size="22" fill="{C2}">&gt;</text>
   {"".join(role_svg)}
   <circle cx="86" cy="268" r="5" fill="{C3}"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
@@ -91,7 +91,7 @@ def terminal() -> str:
         t += 0.22
 
     cmd("whoami")
-    out("dylan  ·  systems engineer  ·  pretoria, za")
+    out("dylan  ·  systems engineer")
     t += 0.3
     cmd("cat ./focus")
     for row in ("autonomous systems   ▸  agents that plan, act and verify their own work",
